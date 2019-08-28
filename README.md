@@ -1,2 +1,1 @@
-# sample-repository
-Test sample repository
+Hello World
